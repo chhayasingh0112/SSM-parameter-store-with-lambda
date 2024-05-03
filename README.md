@@ -1,0 +1,1 @@
+# SSM-parameter-store-with-lambda
